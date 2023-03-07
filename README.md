@@ -1,7 +1,6 @@
 # dysfunk
 
-<img width="700" alt="Screenshot 2023-02-05 at 22 47 58" src="https://user-images.githubusercontent.com/66336643/223574790-54514b11-3f64-45a4-81e9-748f6ea39133.png">
-
+<img width="800" alt="Screenshot 2023-03-07 at 14 34 22" src="https://user-images.githubusercontent.com/66336643/223574847-23ac1502-6380-4e38-a1e0-45ac88df0900.png">
 
 Welcome to the Dysfunk Wiki!
 
