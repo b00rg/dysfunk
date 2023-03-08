@@ -28,18 +28,3 @@ Dysfunk is an Android application that helps users achieve their goals through d
 5. Use the daily timer with optional Pomodoro method and phone usage tracking to stay on track.
 6. Receive weekly and monthly reports with personalized ways to improve and achieve your goals.
 
-### Contributing
-
-Contributions to the Dysfunk app are welcome! Please refer to our Contributing Guidelines for more information on how to contribute.
-
-### License
-
-Dysfunk is distributed under the MIT License. Please refer to the license file for more information.
-
-### Project Structure
-
-The Dysfunk app is organized into the following directories:
-
-app/: Contains the source code for the Dysfunk app.
-docs/: Contains documentation for the Dysfunk app.
-tests/: Contains unit tests for the Dysfunk app.
