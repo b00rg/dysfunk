@@ -1,0 +1,21 @@
+// Declare MainActivity class which extends AppCompatActivity class
+public class MainActivity extends AppCompatActivity {
+
+    // Declare private instance variables for email edit text, password edit text, login button and register link text view
+    private EditText emailEditText, passwordEditText;
+    private Button loginButton;
+    private TextView registerLink;
+
+    // Override onCreate method which gets called when the activity is created
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        // Set the content view of the activity to the activity_main.xml layout file
+        setContentView(R.layout.activity_main);
+
+        // Initialize email edit text, password edit text, login button and register link text view with their respective IDs from the activity_main.xml layout file
+        emailEditText = findViewById(R.id.email_edittext);
+        passwordEditText = findViewById(R.id.password_edittext);
+        loginButton = findViewById(R.id.login_button);
+        registerLink = findViewById(R.id.register_link);
